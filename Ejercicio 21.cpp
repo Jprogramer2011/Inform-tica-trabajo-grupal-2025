@@ -22,4 +22,5 @@ int main(){
     cin>>x;
     cout<<ternary_search(a,x)<<"\n";
     return 0;
+
 }
