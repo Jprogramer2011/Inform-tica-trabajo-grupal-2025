@@ -98,3 +98,70 @@ Implementar el algoritmo IDA*.
 Implementar el algoritmo bidireccional de búsqueda en grafos.
 Resolver el problema de la ruta más barata con paradas obligatorias.
 Resolver el problema de la ruta más corta con restricciones de capacidad.
+Implementar búsqueda en grafos con heurística personalizada.
+Resolver el problema de encontrar caminos disjuntos
+Resolver el problema de planificación de tareas con grafos dirigidos.
+Resolver el problema de flujo de circulación en grafos
+Resolver el problema de asignación de frecuencias en redes.
+Implementar un grafo con lista de adyacencia.
+Implementar un grafo con matriz de adyacencia.
+Implementar un grafo dirigido con lista de adyacencia.
+Implementar un grafo dirigido con matriz de adyacencia.
+Implementar una estructura de grafo con nodos genéricos.
+Comparar representaciones de grafos en eficiencia.
+Implementar un grafo no dirigido con lista de adyacencia.
+Implementar un grafo no dirigido con matriz de adyacencia.
+Implementar recorrido BFS con std::queue.
+Implementar recorrido DFS con std::stack.
+Implementar recorrido DFS recursivo.
+Comparar tiempos entre BFS y DFS en grafos grandes.
+Resolver el problema de los puentes en grafos no dirigidos.
+Resolver el problema de las islas en una matriz binaria (DFS).
+Resolver el problema de las islas en una matriz binaria (BFS).
+Usar std::map para contar frecuencia de palabras.
+Usar std::unordered_map para contar frecuencia de palabras.
+Usar std::set para eliminar duplicados de una lista.
+Usar std::unordered_set para eliminar duplicados de una lista.
+Usar std::multiset para contar ocurrencias de elementos.
+Usar std::pair para almacenar claves y valores.
+Usar std::tuple para almacenar múltiples valores.
+Usar std::vector para ordenar números.
+Usar std::list para implementar una cola.
+Usar std::deque para implementar una pila.
+Usar std::priority_queue para obtener el máximo.
+Usar std::priority_queue para obtener el mínimo.
+Usar std::stack para invertir una cadena.
+Usar std::queue para simular una cola de banco.
+Usar std::forward_list para manejar datos secuenciales.
+Usar std::array para operaciones básicas.
+Usar std::bitset para operaciones binarias.
+Usar std::map para ordenar claves automáticamente.
+Usar std::unordered_map para acceso rápido a claves.
+Usar std::vector con objetos y ordenar por un atributo.
+Usar std::map para asociar nombres con edades.
+Usar std::unordered_set para verificar duplicados.
+Usar std::multimap para asociar múltiples valores a una clave.
+Usar std::list para insertar y borrar en medio
+Usar std::deque para insertar en ambos extremos.
+Usar std::stack para evaluar expresiones postfijas.
+Usar std::queue para recorrido BFS.
+Usar std::priority_queue para resolver el problema del k-ésimo mayor.
+Usar std::map para implementar un diccionario.
+Usar std::unordered_map para implementar una tabla hash.
+Implementar un árbol binario de búsqueda.
+Implementar recorridos en árbol binario (preorden, inorden, postorden).
+Implementar un árbol AVL.
+Implementar un árbol Red-Black.
+Implementar un trie para palabras.
+Implementar un heap binario (máximo).
+Implementar un heap binario (mínimo).
+Implementar un heap d-ario.
+Implementar un montículo de Fibonacci.
+Implementar un árbol B.
+Implementar un árbol B+.
+Implementar un árbol Segment Tree.
+Implementar un árbol Fenwick (Binary Indexed Tree).
+Implementar un grafo con std::map y std::vector.
+Implementar un grafo con std::unordered_map.
+Usar std::map para grafo dirigido.
+Usar std::unordered_map para grafo dirigido.
